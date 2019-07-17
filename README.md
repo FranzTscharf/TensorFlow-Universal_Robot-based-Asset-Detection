@@ -1,4 +1,4 @@
-# Visual Robot-based Asset Detection 
+# Universal Robot Asset Detection using TensorFlow
 ## Titel:
 Automatischer visueller Konfigurationscheck
 ## Beschreibung:
